@@ -1,17 +1,25 @@
-## Selected projects in data science, machine learning and NLP
+## Selected Projects in Data Science, Machine Learning and Data Analytics
 
 ---
 
 ### Automating Data Discovery in SQL
 Receiving and processing data for a new project can be very time consuming, especially if repeated for many clients. SQL scripting using and dynamic T-SQL is an excellent choice for automating this work where possible. In this work, I build a script-based approach, the same approach that was key to saving many hours and procedurising the data discovery process of one of KPMG's flagship products.  
 
-[![](https://img.shields.io/badge/SQL-white?logoUrl=https://github.com/carstenegelund/carstenegelund.github.io/raw/master/sql-database-sql-azure-svgrepo-com.svg)](#) 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
-[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
-[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
-[![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) 
-[![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/SQL_Server-white?style=flat&logo=microsoftsqlserver&logoColor=CC2927&color=white)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
----https://github.com/carstenegelund/carstenegelund.github.io/blob/master/sql-database-sql-azure-svgrepo-com.svg
+[View code on GitHub](https://github.com/carstenegelund/sql-automation/)
+
+
+---
+
+### Building a Web Scraper for Bids 
+The success of any consultancy rests on winning new work. Scoping for bids is a task that can be automated with the right tools. In this project, I built a web scraper to search the Digital Outcomes and Specialists webpage and automatically extract applicable bids with key information depending on key word search. While not in the notebook, this application was hosted on Azure and Logic Apps used to execute the script and send an email to the team's bid owners on a weekly basis.
+
+[![](https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB&color=white)](#)
+[![](https://img.shields.io/badge/BeautifulSoup-white?style=flat&logo=&logoColor=150458&color=white)](#)
+[![](https://img.shields.io/badge/Pandas-white?style=flat&logo=Pandas&logoColor=150458&color=white)](#)
+[![](https://img.shields.io/badge/Microsoft_Azure-white?style=flat&logo=microsoftazure&logoColor=0078D4&color=white)](#)
+[![](https://img.shields.io/badge/Microsoft_Excel-white?style=flat&logo=microsoftexcel&logoColor=217346&color=white)](#)
+
+[View code on GitHub](https://github.com/carstenegelund/Bid-Site-Web-Scraper/tree/main)
