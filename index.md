@@ -1,35 +1,17 @@
-## Portfolio
+## Selected projects in data science, machine learning and NLP
 
 ---
 
-### Category Name 1 
+### Automating Data Discovery in SQL
+Receiving and processing data for a new project can be very time consuming, especially if repeated for many clients. SQL scripting using and dynamic T-SQL is an excellent choice for automating this work where possible. In this work, I build a script-based approach, the same approach that was key to saving many hours and procedurising the data discovery process of one of KPMG's flagship products.  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)(#) 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) 
+[![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) 
+[![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
