@@ -12,6 +12,9 @@ Sleep disorders in the UK are highly prevalent; Apnea and Insomnia being two com
 [![](https://img.shields.io/badge/Jupyter-white?style=flat&logo=jupyter&logoColor=F37626&color=white)](#)
 
 
+<img src="images/test_score_results.png?raw=true" />
+
+
 
 [View code on GitHub](https://github.com/carstenegelund/sleep-disorder-predictor)
 
